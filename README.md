@@ -16,4 +16,5 @@ Phù hợp để học tập, tra cứu tài liệu, hoặc hỗ trợ đọc hi
 ---
 
 📘 Tham khảo tài liệu tại [Notion]([https://www.notion.so/your-link](https://www.notion.so/Applying-RAG-in-QAN-lesson-resources-212a5b9c115c80d39297c21274f1cf92))
+https://www.notion.so/Applying-RAG-in-QAN-lesson-resources-212a5b9c115c80d39297c21274f1cf92
 
